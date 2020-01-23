@@ -1,0 +1,47 @@
+d input {
+  padding: 10px;
+  border: 1px 1px 1px 1px;
+  border-color: black;
+}
+
+.LightGray {
+  background: lightgray;
+  font-size: 25px;
+  padding: 10px;
+  text-align: center;
+}
+.DarkGray {
+  background: gray;
+  font-size: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+.OrangeGreen {
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+    background: orange;
+    color: green;
+}
+
+.LightPurple {
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+    background: #fa84fa;
+}
+
+.LightBlue {
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+    background: lightskyblue;
+}
+
+.Yellow {
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+    background: yellow;
+}
